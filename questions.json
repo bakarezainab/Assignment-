@@ -1,0 +1,30 @@
+[
+    {
+      "question": "Who is the founder of Web3bridge?",
+      "answers": [
+        { "text": "Mr. Ayodeji Awosika", "correct": true },
+        { "text": "Mr. Micheal", "correct": false },
+        { "text": "Mr. Laide", "correct": false },
+        { "text": "Mrs. Sule", "correct": false }
+      ]
+    },
+    {
+      "question": "Which continent is Nigeria?",
+      "answers": [
+        { "text": "Asia", "correct": false },
+        { "text": "Africa", "correct": true },
+        { "text": "North America", "correct": false },
+        { "text": "South America", "correct": false }
+      ]
+    },
+    {
+      "question": "What is a verb'?",
+      "answers": [
+        { "text": "A noun", "correct": false },
+        { "text": "An action word", "correct": true },
+        { "text": "Adverb", "correct": false },
+        { "text": "All of the above", "correct": false }
+      ]
+    }
+  ]
+  
